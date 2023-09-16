@@ -1,5 +1,5 @@
 ### Hi there 👋
-👯 I’m looking for a job right now :)
+Currently I’m looking for a job right now :)
 
 ## About me
 My name is Marcin Borys - I'm certified Software Tester with over 4 years of commercial experience in IT.
@@ -12,7 +12,7 @@ I'm oriented for further development as automation tester.
 * ISTQB: Foundation Level 
 * Databases: MySQL, MS SQL, Oracle Database
 * Languages: Python with the most commercial experience and Java(based on course)
-* Testing: Selenium, Robot Framework, Pytest, ReadyApi, Postman, TestNG, Jmeter, Browserstack, Cypress, Codeception, CSS Selectors, XPATH, XML, REST
+* Testing: Selenium, Robot Framework, Pytest, ReadyApi, Postman, Playwright, TestNG, Jmeter, Browserstack, Cypress, Codeception, CSS Selectors, XPATH, XML, REST
 * Version Control Systems: Git
 * CI: Jenkins, Codeship
 * Other tools: Confluence, JIRA, Trello, Maven 
