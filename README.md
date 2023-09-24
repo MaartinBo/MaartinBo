@@ -17,15 +17,15 @@ I'm oriented for further development as automation tester.
 * CI: Jenkins, Codeship
 * Other tools: Confluence, JIRA, Trello, Maven, Docker 
 
+
+## My sample of test automation projects
+
+* Python/ Selenium/ Pytest/ Allure/ - https://github.com/MaartinBo/seleniumPythonDemoMB 
+* Java/ Maven/ Selenium/ TestNG/ log4j/ extentreports - https://github.com/MaartinBo/seleniumJavaDemoMB
+
 ## Courses 
 
 * Kurs Selenium Python od podstaw -https://www.udemy.com/course/kurs-selenium-python/ - 08/23
 * Kurs Selenium Java od podstaw - https://www.udemy.com/course/kurs-selenium-java/ - 08/23
 * Automatyzacja Testowania-testerzy.pl - 11/2018
 * Tester Manualny-Coders Lab - 08/18 
-
-
-## My sample of test automation projects
-
-* Python/ Selenium/ Pytest/ Allure/ - https://github.com/MaartinBo/seleniumPythonDemoMB 
-* Java/ Maven/ Selenium/ TestNG/ log4j/ extentreports - https://github.com/MaartinBo/seleniumJavaDemoMB
