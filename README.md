@@ -12,7 +12,7 @@ My own testing website: https://mb-qa.eu/
 ## Tech skills
 
 * ISTQB: Foundation Level 
-* Databases: MySQL, MS SQL, Oracle Database
+* Databases: MySQL, MS SQL, Oracle Database, PostgreSQL
 * Languages: Python with the most commercial experience and Java(based on course)
 * Testing: Selenium, Robot Framework, Pytest, ReadyApi, Postman, Webdriver, Playwright, TestNG, Jmeter, Browserstack, Cypress, Codeception, CSS Selectors, XPATH, XML, REST
 * Version Control Systems: Git
