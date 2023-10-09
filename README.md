@@ -13,7 +13,7 @@ My own testing website: https://mb-qa.eu/
 
 * ISTQB: Foundation Level 
 * Databases: MySQL, MS SQL, Oracle Database, PostgreSQL
-* Languages: Python with the most commercial experience and Java(based on course)
+* Languages: Python and Java
 * Testing: Selenium, Robot Framework, Pytest, ReadyApi, Postman, Webdriver, Playwright, TestNG, Jmeter, Browserstack, Cypress, Codeception, CSS Selectors, XPATH, XML, REST
 * Version Control Systems: Git
 * CI: Jenkins, Codeship
@@ -26,7 +26,7 @@ My own testing website: https://mb-qa.eu/
 * Java/ Maven/ Selenium/ TestNG/ log4j/ extentreports - https://github.com/MaartinBo/seleniumJavaDemoMB
 
 ## Courses 
-* Currently working on - API Testing with Python 3 & PyTest, Backend Automation 2023 - https://www.udemy.com/course/backend-api-testing-with-python/  
+* API Testing with Python 3 & PyTest, Backend Automation 2023 - https://www.udemy.com/course/backend-api-testing-with-python/  - 10/23
 * Kurs WordPress Elementor 2023 - https://www.udemy.com/course/strona-internetowa-w-dzien-kurs-wordpress/ - 09/23
 * Kurs Selenium Python od podstaw -https://www.udemy.com/course/kurs-selenium-python/ - 08/23
 * Kurs Selenium Java od podstaw - https://www.udemy.com/course/kurs-selenium-java/ - 08/23
