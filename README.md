@@ -22,8 +22,9 @@ My own testing website: https://mb-qa.eu/
 
 ## My sample of test automation projects
 
-* Python/ Selenium/ Pytest/ Allure/ - https://github.com/MaartinBo/seleniumPythonMB 
-* Java/ Maven/ Selenium/ TestNG/ log4j/ extentreports - https://github.com/MaartinBo/seleniumJavaDemoMB
+* `Backend` - Python/ PyMySQL/ Requests/ Pytest/ WooCommerce/ Docker -  https://github.com/MaartinBo/apiPythonMB
+* `Frontend` - Python/ Selenium/ Pytest/ Allure/ - https://github.com/MaartinBo/seleniumPythonMB 
+* `Frontend` - Java/ Maven/ Selenium/ TestNG/ log4j/ extentreports - https://github.com/MaartinBo/seleniumJavaDemoMB
 
 ## Courses 
 * API Testing with Python 3 & PyTest, Backend Automation 2023 - https://www.udemy.com/course/backend-api-testing-with-python/  - 10/23
