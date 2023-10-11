@@ -33,3 +33,5 @@ My own testing website: https://mb-qa.eu/
 * Kurs Selenium Java od podstaw - https://www.udemy.com/course/kurs-selenium-java/ - 08/23
 * Automatyzacja Testowania-testerzy.pl - 11/2018
 * Tester Manualny-Coders Lab - 08/18 
+
+# Any feedback, suggestions, errors, or ideas on how to improve this GitHub repository are welcome :)"
