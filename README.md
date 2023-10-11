@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 Currently I’m looking for a job right now :)
 
 ## About me
@@ -34,4 +34,4 @@ My own testing website: https://mb-qa.eu/
 * Automatyzacja Testowania-testerzy.pl - 11/2018
 * Tester Manualny-Coders Lab - 08/18 
 
-# Any feedback, suggestions, errors, or ideas on how to improve this GitHub repository are welcome :)"
+## Any feedback, suggestions, errors, or ideas on how to improve this GitHub repository are welcome :)
