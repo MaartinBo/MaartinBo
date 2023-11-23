@@ -1,6 +1,3 @@
-## Hi there 👋
-Currently I’m looking for a job right now :)
-
 ## About me
 My name is Marcin Borys - I'm Software Tester with over 4 years of commercial experience in IT.
 
