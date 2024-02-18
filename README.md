@@ -13,7 +13,7 @@ My own testing website: https://mb-qa.eu/
 * Languages: Python and Java
 * Testing: Selenium, Robot Framework, Pytest, ReadyApi, Postman, Webdriver, Playwright, TestNG, Jmeter, Browserstack, Cypress, Codeception, CSS Selectors, XPATH, XML, REST
 * Version Control Systems: Git
-* CI: Jenkins, Codeship
+* CI: Jenkins, Codeship, GitHub Actions
 * Other tools: Confluence, JIRA, Trello, Maven, Docker 
 
 
@@ -24,6 +24,7 @@ My own testing website: https://mb-qa.eu/
 * `Frontend` - Java/ Maven/ Selenium/ TestNG/ log4j/ extentreports - https://github.com/MaartinBo/seleniumJavaDemoMB
 
 ## Courses 
+* Nowoczesna Ciągła Integracja i testy automatyczne z Playwright i GitHub Actions - https://jaktestowac.pl/course/ciagla-integracja-i-testy-automatyczne-z-playwright-i-github-actions/ - 02/24
 * API Testing with Python 3 & PyTest, Backend Automation 2023 - https://www.udemy.com/course/backend-api-testing-with-python/  - 10/23
 * Kurs WordPress Elementor 2023 - https://www.udemy.com/course/strona-internetowa-w-dzien-kurs-wordpress/ - 09/23
 * Kurs Selenium Python od podstaw -https://www.udemy.com/course/kurs-selenium-python/ - 08/23
