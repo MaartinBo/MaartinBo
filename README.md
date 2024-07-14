@@ -24,6 +24,8 @@ My own testing website: https://mb-qa.eu/
 * `Frontend` - Java/ Maven/ Selenium/ TestNG/ log4j/ extentreports - https://github.com/MaartinBo/seleniumJavaDemoMB
 
 ## Courses 
+* TypeScript dla Testera - https://jaktestowac.pl/course/typescript-dla-testera/ - 07/24
+* JavaScript dla Testera - https://jaktestowac.pl/course/javascript-dla-testera/ - 07/24
 * Nowoczesna Ciągła Integracja i testy automatyczne z Playwright i GitHub Actions - https://jaktestowac.pl/course/ciagla-integracja-i-testy-automatyczne-z-playwright-i-github-actions/ - 02/24
 * API Testing with Python 3 & PyTest, Backend Automation 2023 - https://www.udemy.com/course/backend-api-testing-with-python/  - 10/23
 * Kurs WordPress Elementor 2023 - https://www.udemy.com/course/strona-internetowa-w-dzien-kurs-wordpress/ - 09/23
