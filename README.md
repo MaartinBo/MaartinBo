@@ -1,9 +1,17 @@
 ## About me
-My name is Marcin Borys - I'm Software Tester with over 4 years of commercial experience in IT.
+Hello! I'm Marcin Borys, a dedicated Software Tester with over 5 years of hands-on experience in the IT industry. 
 
-I'm oriented for further development as automation tester.
+My passion lies in ensuring software quality through meticulous manual and automated testing. 
 
-My own testing website: https://mb-qa.eu/
+I am constantly seeking opportunities to enhance my skills, particularly in test automation, as I believe it is the future of efficient and effective software testing.
+
+I thrive on challenges and am driven by the desire to deliver flawless software solutions. I bring a strong analytical mindset, attention to detail, and a proactive approach to every project I undertake.
+
+If you're looking for a committed professional who can contribute to your team’s success, let's connect!
+
+Check out my personal testing website, designed specifically for automation testing experiments and demonstrations: 
+
+[My Testing Website](https://mb-qa.eu/)
 
 
 ## Tech skills
@@ -24,6 +32,7 @@ My own testing website: https://mb-qa.eu/
 * `Frontend` - Java/ Maven/ Selenium/ TestNG/ log4j/ extentreports - https://github.com/MaartinBo/seleniumJavaDemoMB
 
 ## Courses 
+* Praktyczne wprowadzenie do testów automatycznych z Playwright - https://jaktestowac.pl/course/playwright-wprowadzenie/ - 09/24
 * TypeScript dla Testera - https://jaktestowac.pl/course/typescript-dla-testera/ - 07/24
 * JavaScript dla Testera - https://jaktestowac.pl/course/javascript-dla-testera/ - 07/24
 * Nowoczesna Ciągła Integracja i testy automatyczne z Playwright i GitHub Actions - https://jaktestowac.pl/course/ciagla-integracja-i-testy-automatyczne-z-playwright-i-github-actions/ - 02/24
