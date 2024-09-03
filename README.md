@@ -18,7 +18,7 @@ Check out my personal testing website, designed specifically for automation test
 
 * ISTQB: Foundation Level 
 * Databases: MySQL, MS SQL, Oracle Database, PostgreSQL
-* Languages: Python and Java
+* Languages: Python, JavaScript, TypeScript and Java
 * Testing: Selenium, Robot Framework, Pytest, ReadyApi, Postman, Webdriver, Playwright, TestNG, Jmeter, Browserstack, Cypress, Codeception, CSS Selectors, XPATH, XML, REST
 * Version Control Systems: Git
 * CI: Jenkins, Codeship, GitHub Actions
