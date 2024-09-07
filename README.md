@@ -32,6 +32,7 @@ Check out my personal testing website, designed specifically for automation test
 * `Frontend` - Java/ Maven/ Selenium/ TestNG/ log4j/ extentreports - https://github.com/MaartinBo/seleniumJavaDemoMB
 
 ## Courses 
+* Currently working on: [Profesjonalny framework do testów z Playwright](https://jaktestowac.pl/course/playwright-automatyzacja/)
 * Praktyczne wprowadzenie do testów automatycznych z Playwright - https://jaktestowac.pl/course/playwright-wprowadzenie/ - 09/24
 * TypeScript dla Testera - https://jaktestowac.pl/course/typescript-dla-testera/ - 07/24
 * JavaScript dla Testera - https://jaktestowac.pl/course/javascript-dla-testera/ - 07/24
