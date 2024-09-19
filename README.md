@@ -28,7 +28,7 @@ Check out my personal testing website, designed specifically for automation test
 ## My sample of test automation projects
 
 * `Backend` - Python/ PyMySQL/ Requests/ Pytest/ WooCommerce/ Docker -  https://github.com/MaartinBo/apiPythonMB
-* `Frontend` - Python/ Selenium/ Pytest/ Allure/ - https://github.com/MaartinBo/seleniumPythonMB 
+* `Frontend` - Python/ Selenium/ Pytest/ Allure/ Pre-commit/ Black/ Pylint/ GitHub Actions - https://github.com/MaartinBo/seleniumPythonMB 
 * `Frontend` - Java/ Maven/ Selenium/ TestNG/ log4j/ extentreports - https://github.com/MaartinBo/seleniumJavaDemoMB
 
 ## Courses 
