@@ -1,15 +1,16 @@
 ## About me
-Hello! I'm Marcin Borys, a dedicated Software Tester with over 5 years of hands-on experience in the IT industry. 
+Hi there! I’m Marcin Borys, a QA with 6+ years in the IT world.
 
-My passion lies in ensuring software quality through meticulous manual and automated testing. 
+I’m passionate about making sure software works smoothly, whether through manual testing, automation, or by leading a QA team to optimize processes. 
+Along the way, I’ve gained experience both in managing a QA team and building testing frameworks from scratch, including CI/CD integration. 
+I’ve worked across a variety of IT sectors, including real estate, e-commerce, insurance, and banking, which has given me a broad perspective and adaptability in testing practices. 
+I’m always looking to improve my skills and stay up-to-date with the latest tools and trends in test automation, as I believe this is essential for delivering the best results.
 
-I am constantly seeking opportunities to enhance my skills, particularly in test automation, as I believe it is the future of efficient and effective software testing.
+I enjoy tackling new challenges and aim to deliver top-notch software every time. With a keen eye for detail, a proactive mindset, and readiness for any challenge the IT world throws my way, I bring my best to every project.
 
-I thrive on challenges and am driven by the desire to deliver flawless software solutions. I bring a strong analytical mindset, attention to detail, and a proactive approach to every project I undertake.
+If you’re looking for a reliable tester who’s excited to help your team succeed, let’s connect!
 
-If you're looking for a committed professional who can contribute to your team’s success, let's connect!
-
-Check out my personal testing website, designed specifically for automation testing experiments and demonstrations: 
+Feel free to check out my personal testing site, where I share automation experiments and demos: 
 
 [My Testing Website](https://mb-qa.eu/)
 
