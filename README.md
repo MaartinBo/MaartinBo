@@ -2,8 +2,11 @@
 Hi there! I’m Marcin Borys, a QA with 6+ years in the IT world.
 
 I’m passionate about making sure software works smoothly, whether through manual testing, automation, or by leading a QA team to optimize processes. 
+
 Along the way, I’ve gained experience both in managing a QA team and building testing frameworks from scratch, including CI/CD integration. 
+
 I’ve worked across a variety of IT sectors, including real estate, e-commerce, insurance, and banking, which has given me a broad perspective and adaptability in testing practices. 
+
 I’m always looking to improve my skills and stay up-to-date with the latest tools and trends in test automation, as I believe this is essential for delivering the best results.
 
 I enjoy tackling new challenges and aim to deliver top-notch software every time. With a keen eye for detail, a proactive mindset, and readiness for any challenge the IT world throws my way, I bring my best to every project.
