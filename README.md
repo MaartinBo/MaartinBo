@@ -30,7 +30,6 @@ Feel free to check out my personal testing site, where I share automation experi
 
 
 ## My sample of test automation projects
-* Currently working on - Python/ Pytest/ Playwright/ Black/ Flake8/ Pre-comit - https://github.com/MaartinBo/playwrightPyMB
 * `Backend` - Python/ PyMySQL/ Requests/ Pytest/ WooCommerce/ Docker -  https://github.com/MaartinBo/apiPythonMB
 * `Frontend` - Python/ Selenium/ Pytest/ Allure/ Pre-commit/ Black/ Pylint/ GitHub Actions - https://github.com/MaartinBo/seleniumPythonMB 
 * `Frontend` - Java/ Maven/ Selenium/ TestNG/ log4j/ extentreports - https://github.com/MaartinBo/seleniumJavaDemoMB
