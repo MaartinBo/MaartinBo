@@ -1,6 +1,6 @@
 ## About me
 
-**QA/Automation Engineer with over 6 years’ experience.**  
+**Senior Test Automation Engineer with over 6 years’ experience.**  
 I built and evolved test frameworks from scratch, integrated them with CI/CD, and combined automation with focused manual checks where they added the most value.
 
 - Led QA teams; set priorities, review standards, and quality gates.
