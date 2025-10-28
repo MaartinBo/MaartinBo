@@ -1,24 +1,28 @@
 ## About me
 
 **QA/Automation Engineer with over 6 years’ experience.**  
-I build and evolve test frameworks from scratch, integrate them with CI/CD, and combine automation with focused manual checks where it adds the most value.
+I built and evolved test frameworks from scratch, integrated them with CI/CD, and combined automation with focused manual checks where they added the most value.
 
-- Led a QA team, setting priorities, review standards, and quality gates.
-- Worked across real estate, e-commerce, insurance, and banking—adapting test strategy to context fast.
-- Focused on stability and speed: harden flaky areas, streamline regression runs, and provide clear release signals.
-- Prefer close collaboration with devs and product, simple maintainable solutions, and continuous improvement.
+- Led QA teams; set priorities, review standards, and quality gates.
+- Worked across real estate, e-commerce, insurance, and banking; adapted test strategy to each context quickly.
+- Focused on stability and speed: reduced flakiness, streamlined regression runs, and increased release confidence.
+- Collaborated closely with devs and product; favored simple, maintainable solutions and continuous improvement.
 
 *Open to roles where quality has a direct impact on delivery.*
 
+
 ## Tech skills
 
-* ISTQB: Foundation Level 
-* Databases: MySQL, MS SQL, Oracle Database, PostgreSQL
-* Languages: Python, JavaScript, TypeScript and Java
-* Testing: Selenium, Robot Framework, Pytest, ReadyApi, Postman, Webdriver, Playwright, TestNG, Jmeter, Browserstack, Cypress, Codeception, CSS Selectors, XPATH, XML, REST
-* Version Control Systems: Git
-* CI: Jenkins, Codeship, GitHub Actions
-* Other tools: Confluence, JIRA, Trello, Maven, Docker 
+- **Languages:** Python, JavaScript, TypeScript, Java
+- **Testing & automation:** Selenium (WebDriver), Playwright, Robot Framework, pytest, TestNG
+- **API testing:** Postman, ReadyAPI (SoapUI)
+- **Cross-browser/device & performance:** BrowserStack, JMeter
+- **Databases:** PostgreSQL, Oracle Database, Microsoft SQL Server, MySQL
+- **CI/CD:** Jenkins, GitHub Actions, Codeship
+- **Version control:** Git
+- **Build & containers:** Maven, Docker
+- **Project & collaboration:** Jira, Trello
+- **Documentation & knowledge:** Confluence, Obsidian
 
 
 ## My sample of test automation projects
