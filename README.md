@@ -2,7 +2,7 @@ Senior QA Automation Engineer | Automation Frameworks | CI/CD | Remote
 
 ## About me
 
-**Senior Test Automation Engineer with 6+ years of experience.**  
+**Senior Test Automation Engineer with 7+ years of experience.**  
 I build and improve test frameworks, integrate them with CI/CD, and combine automation with focused manual testing where needed.
 
 - Work with QA teams on priorities, quality standards, and review practices
