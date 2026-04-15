@@ -22,13 +22,16 @@ I build and improve test frameworks, integrate them with CI/CD, and combine auto
 
 - **Languages:** Python, JavaScript, TypeScript, Java
 - **Testing & automation:** Selenium WebDriver, Playwright, Robot Framework, Pytest, TestNG
-- **API testing:** Postman, ReadyAPI (SoapUI), Bruno
-- **Cross-browser / performance:** BrowserStack, JMeter
+- **API testing:** Postman, ReadyAPI (SoapUI), Swagger, Bruno
+- **Cross-browser / mobile / performance:** BrowserStack, JMeter
 - **Databases:** PostgreSQL, Oracle Database, Microsoft SQL Server, MySQL
 - **CI/CD:** Jenkins, GitHub Actions, Codeship
-- **Version control:** Git
-- **Build & containers:** Maven, Docker
-- **Project & collaboration:** Jira, Trello
+- **Version control:** Git, GitHub, GitLab, Bitbucket
+- **Build / package / containers:** Maven, Docker, npm, pip
+- **Project & collaboration:** Jira, TestFLO, Trello
+- **BDD / test design:** Gherkin
+- **Messaging / integration:** Kafka
+- **Other:** Agile, code review, English B2
 - **Documentation:** Confluence, Obsidian
 
 ## Sample test automation projects
