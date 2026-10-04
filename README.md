@@ -55,9 +55,9 @@ I build and improve test frameworks, integrate them with CI/CD, and combine auto
 
 **Currently working on**
 - [Mechanizm Wydajności Aplikacji](https://fabrykatestow.pl/wa/#mechanism)
-- [AI Testers](https://aitesters.pl/)
 
 **Completed**
+- Certified in practical AI-assisted test automation using Playwright and TypeScript, including UI/API testing, CI/CD integration, scalable test architecture, and test quality optimization. [AI Testers](https://aitesters.pl/) - 09/26
 - [Przegląd Architektury Testów](https://jaktestowac.pl/course/przeglad-architektury-testow/) — 04/2026
 - [Rozszerzone koncepty z Playwright (UI + REST API)](https://jaktestowac.pl/course/rozszerzone-koncepty-z-playwright/) — 02/2026
 - [Playwright Elements – Kluczowe koncepcje automatyzacji testów](https://jaktestowac.pl/course/playwright-elements/) — 12/2025
